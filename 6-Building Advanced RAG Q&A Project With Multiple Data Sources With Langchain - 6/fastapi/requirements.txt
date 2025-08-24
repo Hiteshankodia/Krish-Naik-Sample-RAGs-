@@ -1,0 +1,12 @@
+arxiv
+langchain
+langchain_community
+wikipedia
+arxiv
+# langchain_google_vertexai
+langchain_google_genai
+# langchain_openai
+faiss-cpu
+langchainhub
+fastapi
+uvicorn
